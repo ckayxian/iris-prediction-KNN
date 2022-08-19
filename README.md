@@ -11,5 +11,5 @@ The project consists of three parts:
 1. The standard workflow of a machine learning project
 2. Importance of model perststance and the way to implement model persistance
 3. Ways to improve the accuracy of output
-4. How to plot data with Matlab
+4. How to plot data with matplotlib
 
